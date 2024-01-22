@@ -1,0 +1,16 @@
+auto_gptq==0.6.0
+chromadb==0.4.6
+click==8.1.7
+easyocr==1.7.1
+Flask==3.0.1
+huggingface_hub==0.20.2
+instaloader==4.10.3
+langchain==0.1.1
+metaflow==2.11.0
+Requests==2.31.0
+streamlit==1.30.0
+streamlit_extras==0.3.6
+torch==2.1.2
+tqdm==4.66.1
+transformers==4.36.2
+Werkzeug==3.0.1
